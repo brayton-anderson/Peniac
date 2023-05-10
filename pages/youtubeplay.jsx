@@ -1,8 +1,9 @@
 import React from "react";
 import PropTypes from "prop-types";
+import styles from '../styles/homer.module.css'
 
 const YoutubeEmbed = ({ embedId }) => (
-  <div className="youtube-container">
+  <div className={styles.youtubeContainer}>
     <iframe
       id="frames"
        width="100vw"
