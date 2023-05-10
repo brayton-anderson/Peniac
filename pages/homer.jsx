@@ -4,6 +4,7 @@ import Image from "next/image";
 import Footer from "./components/footer";
 import styles from '../styles/homer.module.css'
 import Navbar from "./components/navbar";
+import YoutubeEmbed from "./youtubeplay";
 import { useState } from "react";
 
 
@@ -31,8 +32,9 @@ export default function Homer() {
             {/* SECTION 1 */}
             <div className={styles.containerInfo}>
                 {/* <div className={styles.overlay}></div> */}
-                <video src="../assets/videoBg.mp4" autoPlay loop muted className={styles.video}/>
-
+                {/* <video src="../assets/videoBg.mp4" autoPlay loop muted className={styles.video}/> */}
+                <YoutubeEmbed embedId="la3EJi-bLQ0" />
+                
                 <div className={styles.content}>
                     <h1>ACCESS TO THE GLOBAL MARKET</h1>
                     <h2>HAS NEVER BEEN MADE THIS EASY.</h2>
