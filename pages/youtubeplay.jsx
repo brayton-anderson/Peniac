@@ -6,7 +6,7 @@ const YoutubeEmbed = ({ embedId }) => (
     <iframe
       id="frames"
        width="100vw"
-    //   height="100vh"
+      height="100vh"
       src={`https://www.youtube.com/embed/${embedId}?autoplay=1&mute=1&loop=1&color=white&controls=0&modestbranding=1&playsinline=1&rel=0&enablejsapi=1`}
       title="YouTube video player" 
       frameborder="0" 
