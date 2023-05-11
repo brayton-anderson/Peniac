@@ -110,7 +110,7 @@ a {
 #mobile i {
     color: #951e60;
     align-items: center;
-    font-size: 26px;
+    font-size: 24px;
 }
 
 .social_icon1 {
@@ -123,6 +123,7 @@ a {
 
 .social_icon1 i {
     padding: 0 8px;
+    font-size: 16px;
     transition: .3s ease-in-out;
 }
 
@@ -236,18 +237,21 @@ a {
     .navbar {
         padding: 15px 20px;
     }
+    .navbar .logo {
+        width: 120px;
+    }
     .navbar #menu-nav {
         display: flex;
         flex-direction: column;
         align-items: flex-start;
         justify-content: flex-start;
         position: fixed;
-        top: 75px;
+        top: 68px;
         right: -300px;
-        width: 300px;
-        height: 90vh;
+        width: 250px;
+        height: 100vh;
         background-color: #777;
-        border-bottom-left-radius: 200px;
+        /* border-bottom-left-radius: 200px; */
         padding: 40px 0 0 10px;
         box-shadow: 0 40px 60px rgba(0, 0, 0, .1);
         transition: all .4s ease-in-out;
@@ -260,11 +264,20 @@ a {
     }
     .navbar #menu-nav li a {
         color: #fff;
-        padding: 1.4em 1.5em;
-        font-size: 16px;
+        padding: 1.2em 1.5em;
+        font-size: 15px;
     }
     .navbar #menu-nav>li:hover a+.submenu {
         position: relative;
         background-color: transparent;
+    }
+    .social_icon1 i {
+        font-size: 14px;
+    }
+    .social_icon i {
+        font-size: 14px;
+    }
+    .copyright {
+        font-size: 10px;
     }
 }

@@ -339,7 +339,7 @@
             color: #fff;
         }
         .service .contents h1 {
-            font-size: 34px;
+            font-size: 30px;
             margin-left: 100px;
             margin-top: 150px;
         }
@@ -350,16 +350,16 @@
             width: 100%;
         }
         .innerSection1 {
-            width: 80%;
+            width: 90%;
             padding: 50px;
             margin: 0;
-            margin-top: -200px;
+            margin-top: -300px;
         }
         .innerSection1 h6 {
-            font-size: 20px;
+            font-size: 18px;
         }
         .innerSection1 .text {
-            font-size: 25px;
+            font-size: 22px;
         }
         .innerSection1 p {
             color: #fff;
@@ -367,7 +367,7 @@
             text-align: justify;
         }
         .innerSection1 h4 {
-            font-size: 18px;
+            font-size: 17px;
             ;
         }
         .faq1 .text1 {
@@ -377,7 +377,7 @@
             font-size: 14px;
         }
         .innerSection1 a {
-            font-size: 16px;
+            font-size: 15px;
         }
         /* services section Videography */
         .newSec4 {
@@ -387,19 +387,19 @@
             width: 100%;
         }
         .innerSection4 {
-            width: 80%;
+            width: 90%;
             padding: 50px;
             margin: 0;
-            margin-bottom: -200px;
+            margin-bottom: -300px;
         }
         .innerSection4 h6 {
-            font-size: 20px;
+            font-size: 18px;
         }
         .innerSection4 .text4 {
-            font-size: 25px;
+            font-size: 22px;
         }
         .innerSection4 a {
-            font-size: 16px;
+            font-size: 15px;
         }
         /* services section 3 */
         .newSec5 {
@@ -409,22 +409,22 @@
             width: 100%;
         }
         .innerSection5 {
-            width: 80%;
+            width: 90%;
             padding: 50px;
             margin: 0;
-            margin-top: -200px;
+            margin-top: -300px;
         }
         .innerSection5 h6 {
-            font-size: 20px;
+            font-size: 18px;
         }
         .innerSection5 .text {
-            font-size: 25px;
+            font-size: 22px;
         }
         .innerSection5 h4 {
             font-size: 18px;
         }
         .faq5 .text5 {
-            font-size: 18px;
+            font-size: 17px;
             display: flex;
             flex-direction: column;
             color: #8a0101;
@@ -434,7 +434,7 @@
             font-size: 15px;
         }
         .innerSection5 a {
-            font-size: 16px;
+            font-size: 15px;
         }
         /* services section 3 */
         .newSec6 {
@@ -444,10 +444,10 @@
             width: 100%;
         }
         .innerSection6 {
-            width: 80%;
+            width: 90%;
             padding: 50px;
             margin: 0;
-            margin-bottom: -200px;
+            margin-bottom: -300px;
         }
         .innerSection6 h6 {
             font-size: 20px;
@@ -465,6 +465,6 @@
             font-size: 15px;
         }
         .innerSection6 a {
-            font-size: 16px;
+            font-size: 15px;
         }
     }

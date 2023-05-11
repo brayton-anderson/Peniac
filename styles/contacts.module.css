@@ -161,6 +161,9 @@
 }
 
 @media (max-width: 768px) {
+    .contact {
+        padding: 50px 20px;
+    }
     .contacts .contents h2 {
         margin-left: 120px;
         margin-top: 120px;

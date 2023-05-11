@@ -109,7 +109,7 @@
         margin-bottom: 40px;
         margin-top: 40px;
         padding: 0;
-        font-size: 18px;
+        font-size: 17px;
     }
     .cta h6 {
         color: rgba(255, 255, 255, 0.808);
@@ -121,12 +121,12 @@
 @media(max-width:480px) {
     .about_us .contents h1,
     .service .contents h1 {
-        font-size: 30px;
+        font-size: 26px;
         margin-left: 80px;
         margin-top: 180px;
     }
     .about .content {
-        padding: 20px 20px;
+        padding: 20px 10px;
         display: flex;
         flex-wrap: wrap;
     }
@@ -157,11 +157,11 @@
         margin-bottom: 30px;
         margin-top: 30px;
         padding: 0;
-        font-size: 16px;
+        font-size: 15px;
     }
     .cta h6 {
         color: rgba(255, 255, 255, 0.808);
-        font-size: 14px;
+        font-size: 13px;
         text-decoration: underline;
     }
 }

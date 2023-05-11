@@ -5,16 +5,14 @@
     "scripts": {
         "dev": "node server.js",
         "build": "next build",
-        "start": "next start -p $PORT",
-        "heroku-postbuild": "npm run build",
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "start": "NODE_ENV=production node server.js"
     },
+
     "dependencies": {
         "@emailjs/browser": "^3.10.0",
         "next": "12.3.0",
         "react": "18.2.0",
-        "react-dom": "18.2.0",
-        "react-youtube": "^10.1.0"
+        "react-dom": "18.2.0"
     },
     "devDependencies": {
         "eslint": "8.23.1",

@@ -36,8 +36,8 @@ export default function Homer() {
                 <div className={styles.content}>
                     <h1>ACCESS TO THE GLOBAL MARKET</h1>
                     <h2>HAS NEVER BEEN MADE THIS EASY.</h2>
-                    <p>We build in our clients&lsquo; <strong>imaginations</strong> to <strong>create</strong> identifiable brands.</p>
-                   <p> That&lsquo;s how we mutually <strong>grow</strong>.</p>
+                    <p className={styles.centerText}>We build in our clients&lsquo; <strong>imaginations</strong> to <strong>create</strong> identifiable brands.</p>
+                   <p className={styles.centerText}> That&lsquo;s how we mutually <strong>grow</strong>.</p>
                 </div>
             </div>
             {/* SECTION 2 */}

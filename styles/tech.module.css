@@ -411,7 +411,7 @@
 
 @media (max-width: 768px) {
     .service .contents h1 {
-        font-size: 34px;
+        font-size: 30px;
         font-weight: 600;
         color: #fff;
         margin-left: 100px;
@@ -425,19 +425,19 @@
         width: 100%;
     }
     .innerSection7 {
-        width: 80%;
+        width: 90%;
         padding: 50px;
         margin: 0;
-        margin-top: -230px;
+        margin-top: -300px;
     }
     .innerSection7 h6 {
-        font-size: 20px;
+        font-size: 18px;
     }
     .innerSection7 .text {
-        font-size: 25px;
+        font-size: 22px;
     }
     .innerSection7 h4 {
-        font-size: 18px;
+        font-size: 17px;
     }
     .faq7 .text7 {
         font-size: 16px;
@@ -446,7 +446,7 @@
         font-size: 14px;
     }
     .innerSection7 a {
-        font-size: 16px;
+        font-size: 15px;
     }
     /* service mobile apps */
     .newSec4 {
@@ -456,19 +456,19 @@
         width: 100%;
     }
     .innerSection4 {
-        width: 80%;
+        width: 90%;
         padding: 50px;
         margin: 0;
-        margin-bottom: -200px;
+        margin-bottom: -300px;
     }
     .innerSection4 h6 {
-        font-size: 20px;
+        font-size: 18px;
     }
     .innerSection4 .text {
-        font-size: 25px;
+        font-size: 22px;
     }
     .innerSection4 h4 {
-        font-size: 18px;
+        font-size: 17px;
     }
     .faq7 .text7 {
         font-size: 18px;
@@ -477,7 +477,7 @@
         font-size: 15px;
     }
     .innerSection4 a {
-        font-size: 16px;
+        font-size: 15px;
     }
     /* service firmware */
     .newSec8 {
@@ -488,19 +488,19 @@
         width: 100%;
     }
     .innerSection8 {
-        width: 80%;
+        width: 90%;
         padding: 50px;
         margin: 0;
-        margin-top: -230px;
+        margin-top: -300px;
     }
     .innerSection8 h6 {
-        font-size: 20px;
+        font-size: 18px;
     }
     .innerSection8 .text {
-        font-size: 25px;
+        font-size: 22px;
     }
     .innerSection8 h4 {
-        font-size: 18px;
+        font-size: 17px;
     }
     .faq7 .text7 {
         font-size: 16px;
@@ -509,7 +509,7 @@
         font-size: 14px;
     }
     .innerSection8 a {
-        font-size: 16px;
+        font-size: 15px;
     }
     /* service uiux */
     .newSec9 {
@@ -519,19 +519,19 @@
         width: 100%;
     }
     .innerSection9 {
-        width: 80%;
+        width: 90%;
         padding: 50px;
         margin: 0;
-        margin-bottom: -200px;
+        margin-bottom: -300px;
     }
     .innerSection9 h6 {
-        font-size: 20px;
+        font-size: 18px;
     }
     .innerSection9 .text {
-        font-size: 25px;
+        font-size: 22px;
     }
     .innerSection9 h4 {
-        font-size: 18px;
+        font-size: 17px;
     }
     .faq7 .text7 {
         font-size: 18px;
@@ -540,7 +540,7 @@
         font-size: 15px;
     }
     .innerSection9 a {
-        font-size: 16px;
+        font-size: 15px;
     }
     /* service data infrastructure */
     .newSec10 {
@@ -551,19 +551,19 @@
         width: 100%;
     }
     .innerSection10 {
-        width: 80%;
+        width: 90%;
         padding: 50px;
         margin: 0;
-        margin-top: -230px;
+        margin-top: -300px;
     }
     .innerSection10 h6 {
-        font-size: 20px;
+        font-size: 18px;
     }
     .innerSection10 .text {
-        font-size: 25px;
+        font-size: 22px;
     }
     .innerSection10 h4 {
-        font-size: 18px;
+        font-size: 17px;
     }
     .faq7 .text7 {
         font-size: 16px;
@@ -572,6 +572,6 @@
         font-size: 14px;
     }
     .innerSection10 a {
-        font-size: 16px;
+        font-size: 15px;
     }
 }
